@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beeplaced
 - 👀 I’m interested in node, mongodb, jaccard comparison, products, UI, webdev
 - 🌱 I’m currently learning npm, typescript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on npm
 - 📫 How to reach me admin@beeplace.de
 
 <!---
