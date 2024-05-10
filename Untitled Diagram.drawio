@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T06:59:52.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="muTnXL7u_kYQXQnIZW4V" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T07:11:01.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QWx63LgU5jO9oeH30aNQ" version="24.3.1" type="github">
   <diagram name="Page-1" id="k_aOBrfTD1fjt1JlveB1">
     <mxGraphModel dx="2864" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,6 +153,9 @@
         <mxCell id="bq4Akhw2LLKJreXtme4T-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;What the Service must learn&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="770" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bq4Akhw2LLKJreXtme4T-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bq4Akhw2LLKJreXtme4T-2" target="bq4Akhw2LLKJreXtme4T-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bq4Akhw2LLKJreXtme4T-2" value="Norm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="820" width="120" height="40" as="geometry" />
         </mxCell>
@@ -167,6 +170,32 @@
         </mxCell>
         <mxCell id="bq4Akhw2LLKJreXtme4T-6" value="Evidences" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="880" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bq4Akhw2LLKJreXtme4T-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bq4Akhw2LLKJreXtme4T-7" target="bq4Akhw2LLKJreXtme4T-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bq4Akhw2LLKJreXtme4T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bq4Akhw2LLKJreXtme4T-7" target="bq4Akhw2LLKJreXtme4T-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bq4Akhw2LLKJreXtme4T-7" value="Expected evidences" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bq4Akhw2LLKJreXtme4T-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bq4Akhw2LLKJreXtme4T-10" target="bq4Akhw2LLKJreXtme4T-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bq4Akhw2LLKJreXtme4T-10" value="Assettlist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bq4Akhw2LLKJreXtme4T-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bq4Akhw2LLKJreXtme4T-12" target="bq4Akhw2LLKJreXtme4T-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="970" />
+              <mxPoint x="380" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bq4Akhw2LLKJreXtme4T-12" value="Prüfungen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1010" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
